@@ -1,0 +1,21 @@
+{
+  "basePath": "/user",
+
+  "allRequestBody":"{\n  \"id\": \"99\",\n  \"username\": \"omar2025\",\n  \"firstName\": \"Omar\",\n  \"lastName\": \"Abdelhakim\",\n  \"email\": \"omar@gmail.com\",\n  \"password\": \"123456789\",\n  \"phone\": \"01123456789\",\n  \"userStatus\": \"1\"\n  }",
+
+  "allUpdatedRequestBody":"{\n  \"id\": \"99\",\n  \"username\": \"omar2025\",\n  \"firstName\": \"omar\",\n  \"lastName\": \"abdelhakim\",\n  \"email\": \"omar@gmail.com\",\n  \"password\": \"123456789\",\n  \"phone\": \"01123456789\",\n  \"userStatus\": \"1\"\n  }",
+
+  "requestBody":
+  {
+  "id": "99",
+  "username": "omar2025",
+  "firstName": "Omar",
+  "lastName": "Abdelhakim",
+  "email": "omar@gmail.com",
+  "password": "123456789",
+  "phone": "01123456789",
+  "userStatus": "1"
+  },
+  "arrayOfUser": "[\n  {\n    \"id\": 10,\n    \"username\": \"youssef2023\",\n    \"firstName\": \"youssef\",\n    \"lastName\": \"yasser\",\n    \"email\": \"youssef@gmail.com\",\n    \"password\": \"147852369\",\n    \"phone\": \"01223456789\",\n    \"userStatus\": 0\n  },\n  {\n    \"id\": 101,\n    \"username\": \"hany2024\",\n    \"firstName\": \"hany\",\n    \"lastName\": \"saied\",\n    \"email\": \"hany@gmail.com\",\n    \"password\": \"123789\",\n    \"phone\": \"010023456789\",\n    \"userStatus\": 1\n  }\n]"
+
+}
