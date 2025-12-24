@@ -1,0 +1,13 @@
+{
+  "allOrderBody" : "{\n  \"id\": 1,\n  \"petId\": 5,\n  \"quantity\": 2,\n  \"shipDate\": \"2025-12-10T11:43:37.323Z\",\n  \"status\": \"placed\",\n  \"complete\": true\n}",
+
+  "orderBody" :
+  {
+    "id": "1",
+    "petId": "5",
+    "quantity": "2",
+    "shipDate": "2025-12-10T11:43:37.323Z",
+    "status": "placed",
+    "complete": "true"
+  }
+}
